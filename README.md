@@ -9,4 +9,4 @@ This certification highlights my ability to:
  - Apply data modeling, visualization, and storytelling techniques
  - Build professional dashboards that drive business insights.
 
-2. Screenshot[Certificate]{}
+2. Screenshot[Certificate]{[https://github.com/chiramithshivaram/Power-BI-Certificate-Tech-Tip24/blob/main/Tech-Tip24%20Power%20BI%20Certificate.png](https://github.com/chiramithshivaram/Power-BI-Certificate-Tech-Tip24/blob/main/Tech-Tip24%20Power%20BI%20Certificate.png)}
